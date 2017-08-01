@@ -1,14 +1,14 @@
 {
-  "author": "Michael Feldstein",
-  "name": "gitignore",
-  "description": "Automatically fetch gitignore files for any project type from github into your new project",
+  "author": "JS Facilities",
+  "name": "fignore",
+  "description": "Automatically fetch gitignore file for node projects",
   "version": "0.5.0",
   "repository": {
-    "url": "https://github.com/msfeldstein/gitignore"
+    "url": "https://github.com/jsfacilities/fitignore"
   },
   "main": "./lib/library.js",
   "bin": {
-    "gitignore": "./bin/gitignore.js"
+    "fignore": "./bin/gitignore.js"
   },
   "dependencies": {},
   "devDependencies": {},
