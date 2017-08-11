@@ -1,6 +1,14 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-.idea/*
+.idea
+
+# VisualStudioCode.gitignore
+# See https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 # dependencies
 /node_modules

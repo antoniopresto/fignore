@@ -2,9 +2,9 @@
   "author": "JS Facilities",
   "name": "fignore",
   "description": "Automatically fetch gitignore file for node projects",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "repository": {
-    "url": "https://github.com/jsfacilities/fitignore"
+    "url": "https://github.com/antoniopresto/fitignore"
   },
   "main": "./lib/library.js",
   "bin": {
